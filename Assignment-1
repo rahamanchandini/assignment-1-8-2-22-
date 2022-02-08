@@ -1,0 +1,17 @@
+Assignment-1:
+Working on Comparison operators, take 2 inputs and perform all comparison operators.
+#Comparison operators
+a=15
+b=13
+print(a<b)
+print(a>b)
+print(a>=b)
+print(a<=b)
+print(a==b)
+print(a!=b)
+O/p: False
+True
+True
+False
+False
+True
