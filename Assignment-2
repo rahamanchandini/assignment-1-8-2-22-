@@ -1,0 +1,9 @@
+Assignment-2:
+Write a program to convert kilometer to centimeters.
+#kilometer to centimeter
+kilometer=float(input('Enter the value to change into centimeter:'))
+centimeter=kilometer*100000
+print(centimeter)
+O/p: 
+Enter the value to change into centimeter:95.2
+9520000.0
